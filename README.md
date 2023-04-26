@@ -1,4 +1,6 @@
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+从saviomatin处clong的个人主页模板（参考）md合集
+
+原描述：
 
 The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others.
 Video about [GitHub Profile README](https://twitter.com/github/status/1294348292130836482?s=20)
